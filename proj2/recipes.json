@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Fried Rice",
+    "ingredients": ["rice", "eggs", "mixed vegtables", "soy sauce"],
+    "instructions": "Cook rice in rice cooker, cook eggs on stove, throw vegtables, throw rice, mix with soy sauce."
+  },
+  {
+    "id": "2",
+    "name": "Chicken Nuggets",
+    "ingredients": ["chicken nuggets"],
+    "instructions": "throw four pieces in mircowave for two minutes"
+  }
+]
