@@ -81,7 +81,7 @@ app.delete("/recipes/:id", (req, res) =>{
 
 //test to see if things worked 
  app.get("/", (req, res) => {
-     res.send("Hello use /recipes/id");
+     res.send("Hello use /recipes");
 });
 
 
